@@ -23,7 +23,7 @@ const Formulario = () => {
         <div style={{ flex: "1", minWidth: "250px", textAlign: "center" }}>
           <img 
             src="./preD/d.jpg" 
-            alt="Jaime y Koha" 
+            alt="Jaimey Koha"  
             style={{ maxWidth: "100%", height: "auto", borderRadius: "8px" }}
           />
         </div>
