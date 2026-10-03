@@ -1,4 +1,5 @@
 import { useState } from "react";
+import fotoD from '../Entrega/d.jpg';
 
 const Formulario = () => {
   const [nombre, setNombre] = useState("");
@@ -23,8 +24,8 @@ const Formulario = () => {
         <div style={{ flex: "1", minWidth: "250px", textAlign: "center" }}>
           <img 
             <img 
-  src={`${import.meta.env.BASE_URL}preD/d.jpg`} 
-  alt="Jaimey Koha" 
+  src={fotoD} 
+            alt="Jaime y Koha" 
   style={{ maxWidth: "100%", height: "auto", borderRadius: "8px" }}
 />
             alt="Jaime y Koha"  
